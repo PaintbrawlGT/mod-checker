@@ -1,1 +1,21 @@
+-Last Gorilla Tag Update-
+Nov 15 2024 - Monke Blocks Update
+----
 
+
+-II Menu-
+Detected?: Semi Detected
+Version: 5.1.2
+Detected Catagory: Overpowered, Expermental, Master
+----
+
+-ShibaGT Menu-
+Name: Genesis
+Version: v60
+Detected?: Most Likley Not.
+----
+
+-II Player Trakkar-
+Version: 1.5
+Detected?: Instant Ban
+----
