@@ -11,7 +11,7 @@ Detected Catagory: Overpowered, Expermental, Master
 
 -ShibaGT Menu-
 Name: Genesis
-Version: v30
+Version: v31
 Detected?: Most Likley Not.
 ----
 
