@@ -17,6 +17,6 @@ Detected?: Most Likley Not.
 
 -II Player Trakkar-
 Version: 1.5
-Detected?: Instant Ban
-Comments: According to ii this has most likley been discontinued.
+Detected?: Most Likely.
+Comments: This did indeed track some lobbies today so we may be seeing a return.
 ----
