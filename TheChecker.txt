@@ -11,8 +11,8 @@ Detected Catagory: Overpowered, Expermental, Master
 
 -ShibaGT Menu-
 Name: Genesis
-Version: v31
-Detected?: Unuseable
+Version: v32
+Detected?: No
 ----
 
 -II Player Trakkar-
