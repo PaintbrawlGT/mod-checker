@@ -1,5 +1,5 @@
 -Last Major Gorilla Tag Update-
-Jan 24 2025 - Monke Biz Update
+Feb 21 2025 - Hoverboard Update
 ----
 
 
@@ -7,13 +7,15 @@ Jan 24 2025 - Monke Biz Update
 Detected?: Unknown/Semi
 Version: 5.5.0
 Detected Catagory: Overpowered, Expermental, Master
-Comments: II menu will always be semi detected due to the detected catagories and also ii just randomly becoming extremely detected 😭
+Comment: II menu will always be semi detected due to the detected catagories and also ii just randomly becoming extremely detected 😭
+Comments 2: DO NOT USE UNTIL THE MOD UPDATES!
 ----
 
 -ShibaGT Menu-
 Name: Genesis
 Version: v40
-Detected?: Possibly?
+Detected?: Unknown
+Comment: ShibaGT Advises users to not use any mods until further notice.
 ----
 
 -II Player Trakkar-
