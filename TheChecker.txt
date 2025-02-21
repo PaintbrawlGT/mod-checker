@@ -20,6 +20,6 @@ Comment: ShibaGT Advises users to not use any mods until further notice.
 
 -II Player Trakkar-
 Version: 1.7
-Detected?: ???
-Comments: Probably Detected???
+Detected?: Most Likley.
+Comments: I am currently unsure if this is detected but just DO NOT USE!
 ----
